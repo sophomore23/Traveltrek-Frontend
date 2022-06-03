@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0ebfaeb.css",
+    "main.js": "/static/js/main.773ddf8a.js",
+    "static/js/787.8056291c.chunk.js": "/static/js/787.8056291c.chunk.js",
+    "static/media/TajMahal.jpg": "/static/media/TajMahal.7042a0fd5b92b07c1c76.jpg",
+    "static/media/Hills.jpg": "/static/media/Hills.662292dc910d21ef7b22.jpg",
+    "static/media/Mountain.jpg": "/static/media/Mountain.c524134d0871557d9742.jpg",
+    "static/media/Shimla.jpg": "/static/media/Shimla.4567a6592425c6e7b452.jpg",
+    "static/media/PYT.png": "/static/media/PYT.67104e64645044feb87a.png",
+    "static/media/ADVENTURE.png": "/static/media/ADVENTURE.b4e91fb1f9077ecf84a0.png",
+    "static/media/image4.png": "/static/media/image4.5e34354be9de92438c4b.png",
+    "static/media/image2.png": "/static/media/image2.300625b887deb8fce86d.png",
+    "static/media/image5.png": "/static/media/image5.43fc4f4ee29aebde0c2d.png",
+    "static/media/Destination.png": "/static/media/Destination.15d1ef533ff2d3bed52b.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/static/media/logo.bc59e77326b2589dd3b147c2388657fd.svg",
+    "index.html": "/index.html",
+    "main.b0ebfaeb.css.map": "/static/css/main.b0ebfaeb.css.map",
+    "main.773ddf8a.js.map": "/static/js/main.773ddf8a.js.map",
+    "787.8056291c.chunk.js.map": "/static/js/787.8056291c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0ebfaeb.css",
+    "static/js/main.773ddf8a.js"
+  ]
+}
